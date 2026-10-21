@@ -1,209 +1,69 @@
 # Monitor Hub
 
-<div align="center">
+**Unified monitoring for websites, APIs, servers, and infrastructure.**
 
-# The Unified Monitoring Platform
+Monitor Hub helps developers, DevOps teams, web agencies, and businesses monitor service availability, track infrastructure health, investigate incidents, and share service status from one platform.
 
-Professional monitoring for **Websites, APIs, Servers, SSL Certificates, and Infrastructure** — all from a single dashboard.
+Monitor website uptime, API health, Windows and Linux server telemetry, alerts, incident history, and branded status pages in one centralized monitoring platform.
 
-🌐 **Website:** https://monitorhubs.com
-🚀 **Get Started:** https://monitorhubs.com/signup
+## Features
 
-</div>
+- **Website Uptime Monitoring** — Check website availability using supported HTTP/HTTPS, ping, port, and keyword checks.
+- **API Monitoring** — Track API endpoint health and response behavior.
+- **Server Monitoring** — Monitor supported Windows and Linux servers.
+- **Infrastructure Metrics** — View supported CPU, memory, disk, and network telemetry.
+- **SSL Certificate Monitoring** — Track certificate validity and expiration.
+- **Alerting** — Receive notifications through supported email and messaging integrations.
+- **Incident History** — Review outages, incidents, and historical service performance.
+- **Monitoring Agent** — Configure supported server monitoring through the Monitor Hub agent.
+- **Public Status Pages** — Share service availability and incident updates.
+- **White-Label Status Pages** — Present service status under your own brand with supported configurations.
+- **MCP Integration** — Connect compatible AI clients to supported monitoring capabilities through the Model Context Protocol.
 
----
+## Alert Integrations
 
-## Monitor Everything. From One Place.
+Available notification channels include:
 
-Monitor Hub is an all-in-one infrastructure monitoring platform designed to simplify reliability engineering for startups, businesses, developers, and operations teams.
+- Email
+- Telegram
+- Slack
+- Discord webhooks
 
-Instead of combining multiple tools for uptime monitoring, API checks, server telemetry, alerting, and status pages, Monitor Hub brings everything together in one unified platform.
+Availability may depend on your configuration and subscription plan. Consult the documentation for current integration instructions.
 
-### Monitor Hub helps you:
+## AI Integrations and MCP
 
-* Detect outages before your users do
-* Monitor websites, APIs, and servers in real time
-* Receive instant alerts when incidents occur
-* Monitor private infrastructure using lightweight agents
-* Share incidents through public status pages
-* Reduce monitoring complexity and operational overhead
+Monitor Hub provides a remote Model Context Protocol (MCP) integration for compatible AI clients to access supported monitoring capabilities.
 
----
+- **MCP endpoint:** https://mcp.monitorhubs.com/mcp
+- **MCP guide:** https://monitorhubs.com/docs/remote-mcp
 
-# Features
+See the MCP guide for current client compatibility, authentication, available tools, permissions, and setup instructions.
 
-## 🌍 Website Monitoring
+## Official Resources
 
-* HTTP/HTTPS monitoring
-* Keyword monitoring
-* Ping monitoring
-* Port monitoring
-* Multi-region availability checks
-* Response time tracking
-* Downtime detection
+- **Website:** https://monitorhubs.com
+- **Get Started:** https://monitorhubs.com/signup
+- **Documentation:** https://monitorhubs.com/docs
+- **API Reference:** https://monitorhubs.com/docs/api
+- **MCP Guide:** https://monitorhubs.com/docs/remote-mcp
+- **Monitoring Agent:** https://github.com/monitorhubs/monitorhub-agent
+- **Documentation Repository:** https://github.com/monitorhubs/monitorhub-docs
+- **GitHub Organization:** https://github.com/monitorhubs
+- **LinkedIn:** https://www.linkedin.com/company/monitor-hub
+- **Support:** support@monitorhubs.com
 
-## 🔌 API Monitoring
+## Who Is Monitor Hub For?
 
-* API endpoint monitoring
-* Response validation
-* Status code checks
-* Response time analytics
-* API health tracking
-* JSON validation
-* Synthetic API monitoring
+- Developers and DevOps teams monitoring production services.
+- Web development agencies managing client websites.
+- Businesses that need visibility into website and API availability.
+- Teams managing Windows and Linux server infrastructure.
+- Agencies that need branded status pages for their customers.
+- Developers exploring AI-assisted monitoring through compatible MCP clients.
 
-## 🖥️ Server Monitoring
+## Get Started
 
-* Linux monitoring
-* Windows monitoring
-* CPU monitoring
-* Memory monitoring
-* Disk monitoring
-* Network monitoring
-* Lightweight telemetry agent
+Visit [Monitor Hub](https://monitorhubs.com) to explore the platform or [create an account](https://monitorhubs.com/signup).
 
-## 🔐 SSL & Domain Monitoring
-
-* SSL certificate expiry tracking
-* Domain expiration monitoring
-* Renewal reminders
-
-## 🚨 Alerting & Notifications
-
-* Email notifications
-* Telegram alerts
-* Slack integrations
-* Discord integrations
-* Instant incident notifications
-
-## 📊 Status Pages
-
-* Public status pages
-* Incident history
-* Uptime reporting
-* Service transparency
-
----
-
-# Why Monitor Hub?
-
-Traditional monitoring stacks often require:
-
-* One tool for uptime monitoring
-* Another tool for server monitoring
-* Separate alerting systems
-* Separate status pages
-* Multiple subscriptions and integrations
-
-Monitor Hub was built to eliminate this complexity by providing a single platform for infrastructure visibility and monitoring.
-
----
-
-# Key Benefits
-
-✅ Unified Monitoring Platform
-
-✅ Lightweight Infrastructure Agent
-
-✅ Fast Setup
-
-✅ Real-Time Alerts
-
-✅ Public Status Pages
-
-✅ Multi-Region Monitoring
-
-✅ Centralized Visibility
-
-✅ Simple Pricing
-
----
-
-# Technology Stack
-
-### Frontend
-
-* Next.js
-* Tailwind CSS
-* TypeScript
-* SWR
-* Recharts
-
-### Backend
-
-* Node.js
-* Fastify
-* PostgreSQL
-* Redis
-* BullMQ
-
-### Infrastructure
-
-* Cloudflare
-* Render
-* Supabase
-* Docker
-
----
-
-# Use Cases
-
-* Website Uptime Monitoring
-* API Monitoring
-* Infrastructure Monitoring
-* DevOps Teams
-* Managed Service Providers
-* SaaS Companies
-* Startups
-* Agencies
-* Internal IT Teams
-
----
-
-# Supported Monitoring
-
-| Type               | Supported |
-| ------------------ | --------- |
-| Website Monitoring | ✅         |
-| API Monitoring     | ✅         |
-| Server Monitoring  | ✅         |
-| SSL Monitoring     | ✅         |
-| Domain Monitoring  | ✅         |
-| Status Pages       | ✅         |
-| Alerting           | ✅         |
-
----
-
-# Resources
-
-🌐 Website
-https://monitorhubs.com
-
-📖 Documentation
-Coming Soon
-
-💼 LinkedIn
-https://www.linkedin.com/company/monitor-hub/
-
-📧 Support
-[email protected]
-
----
-
-# Keywords
-
-Infrastructure Monitoring • Uptime Monitoring • Website Monitoring • API Monitoring • Server Monitoring • DevOps Monitoring • Synthetic Monitoring • Status Pages • Reliability Monitoring • Observability
-
----
-
-# About
-
-Monitor Hub is a modern monitoring platform focused on helping teams achieve better reliability, faster incident detection, and simpler infrastructure visibility without enterprise complexity.
-
-Built with ❤️ for developers, DevOps engineers, and modern infrastructure teams.
-
----
-
-## Start Monitoring Today
-
-👉 https://monitorhubs.com/signup
+For setup instructions, integrations, and troubleshooting, visit the [official documentation](https://monitorhubs.com/docs).
